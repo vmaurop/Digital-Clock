@@ -1,0 +1,16 @@
+#clock 
+{
+   color:green;
+   background-color:gray;
+   font-size:70px;
+   font-weight:bold;
+   width:950px;
+   padding:10px;
+   text-align:center;
+   
+}
+
+body
+{
+	background-color:gray;
+}
